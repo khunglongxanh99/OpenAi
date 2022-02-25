@@ -1,0 +1,15 @@
+.wrapper{
+    background-color: #f2f2f2;
+    height: auto;
+    min-height: 100vh;
+    .row{
+        width: 100%;
+        display: flex;
+    }
+    .header{
+        width: 23%;
+    }
+    .main{
+        width: 87%;
+    }
+}

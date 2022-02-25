@@ -1,0 +1,14 @@
+.boxDetail{
+    max-width: 100%;
+    .title{
+        font-size: clamp(1.875rem,22.1052631579px + 1.6447368421vw,2.5rem);
+        font-weight: bold;
+    }
+    .meta{
+        color:#0065b3;
+    }
+    .content{
+        width: 98%;
+        font-size: 13pt;
+    }
+}

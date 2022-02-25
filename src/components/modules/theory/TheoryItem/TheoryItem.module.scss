@@ -1,0 +1,23 @@
+
+.boxInner{
+    margin-top: 1rem;
+    background-color: white;
+    display: flex;
+    padding: 1rem;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    .img{
+        width: 11%;
+    }
+    .content{
+        width: 89%;
+    }
+    .title{
+        color:#0065b3;
+        font-size: 15pt;
+        margin-top: 1rem;
+        cursor: pointer;
+    }
+    .meta{
+        margin: 0.5rem 0;
+    }
+}
